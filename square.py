@@ -45,5 +45,5 @@ class SquareTestCase(unittest.TestCase):
         
     def test_zero_perimeter(self):
         res = perimeter(0)
-        self.assertEqual(res, 1)
+        self.assertEqual(res, 0)
 
