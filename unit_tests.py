@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
 import unittest
 import circle
-import reactangle
+import rectangle
 import square
 import triangle
 
